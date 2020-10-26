@@ -1,0 +1,13 @@
+E:\MOC20486D_10_2020\Moellijker\ACME\bin\Debug\netcoreapp3.1\ACME.exe
+E:\MOC20486D_10_2020\Moellijker\ACME\bin\Debug\netcoreapp3.1\ACME.deps.json
+E:\MOC20486D_10_2020\Moellijker\ACME\bin\Debug\netcoreapp3.1\ACME.runtimeconfig.json
+E:\MOC20486D_10_2020\Moellijker\ACME\bin\Debug\netcoreapp3.1\ACME.runtimeconfig.dev.json
+E:\MOC20486D_10_2020\Moellijker\ACME\bin\Debug\netcoreapp3.1\ACME.dll
+E:\MOC20486D_10_2020\Moellijker\ACME\bin\Debug\netcoreapp3.1\ACME.pdb
+E:\MOC20486D_10_2020\Moellijker\ACME\obj\Debug\netcoreapp3.1\ACME.csprojAssemblyReference.cache
+E:\MOC20486D_10_2020\Moellijker\ACME\obj\Debug\netcoreapp3.1\ACME.AssemblyInfoInputs.cache
+E:\MOC20486D_10_2020\Moellijker\ACME\obj\Debug\netcoreapp3.1\ACME.AssemblyInfo.cs
+E:\MOC20486D_10_2020\Moellijker\ACME\obj\Debug\netcoreapp3.1\ACME.csproj.CoreCompileInputs.cache
+E:\MOC20486D_10_2020\Moellijker\ACME\obj\Debug\netcoreapp3.1\ACME.dll
+E:\MOC20486D_10_2020\Moellijker\ACME\obj\Debug\netcoreapp3.1\ACME.pdb
+E:\MOC20486D_10_2020\Moellijker\ACME\obj\Debug\netcoreapp3.1\ACME.genruntimeconfig.cache

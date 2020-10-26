@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "toD4UCi7+WgPKCAn9vK6hUwC881HNFCrPjqXma/MuW6h2b0LAgqFdGFCTut6yc3+SQraohJnUG5xLPRCSPOd0A==",
+  "success": true,
+  "projectFilePath": "E:\\MOC20486D_10_2020\\Exercise_1\\Osram\\Osram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

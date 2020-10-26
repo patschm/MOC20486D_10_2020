@@ -1,0 +1,13 @@
+E:\MOC20486D_10_2020\Moellijker\EigenTypes\bin\Debug\netcoreapp3.1\EigenTypes.exe
+E:\MOC20486D_10_2020\Moellijker\EigenTypes\bin\Debug\netcoreapp3.1\EigenTypes.deps.json
+E:\MOC20486D_10_2020\Moellijker\EigenTypes\bin\Debug\netcoreapp3.1\EigenTypes.runtimeconfig.json
+E:\MOC20486D_10_2020\Moellijker\EigenTypes\bin\Debug\netcoreapp3.1\EigenTypes.runtimeconfig.dev.json
+E:\MOC20486D_10_2020\Moellijker\EigenTypes\bin\Debug\netcoreapp3.1\EigenTypes.dll
+E:\MOC20486D_10_2020\Moellijker\EigenTypes\bin\Debug\netcoreapp3.1\EigenTypes.pdb
+E:\MOC20486D_10_2020\Moellijker\EigenTypes\obj\Debug\netcoreapp3.1\EigenTypes.csprojAssemblyReference.cache
+E:\MOC20486D_10_2020\Moellijker\EigenTypes\obj\Debug\netcoreapp3.1\EigenTypes.AssemblyInfoInputs.cache
+E:\MOC20486D_10_2020\Moellijker\EigenTypes\obj\Debug\netcoreapp3.1\EigenTypes.AssemblyInfo.cs
+E:\MOC20486D_10_2020\Moellijker\EigenTypes\obj\Debug\netcoreapp3.1\EigenTypes.csproj.CoreCompileInputs.cache
+E:\MOC20486D_10_2020\Moellijker\EigenTypes\obj\Debug\netcoreapp3.1\EigenTypes.dll
+E:\MOC20486D_10_2020\Moellijker\EigenTypes\obj\Debug\netcoreapp3.1\EigenTypes.pdb
+E:\MOC20486D_10_2020\Moellijker\EigenTypes\obj\Debug\netcoreapp3.1\EigenTypes.genruntimeconfig.cache

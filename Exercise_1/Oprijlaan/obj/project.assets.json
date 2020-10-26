@@ -1,0 +1,149 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DoomsdayPreppers/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/DoomsdayPreppers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DoomsdayPreppers.dll": {}
+        }
+      },
+      "Heras/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Heras.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Heras.dll": {}
+        }
+      },
+      "Infrac/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Infrac.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infrac.dll": {}
+        }
+      },
+      "Osram/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Osram.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Osram.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoomsdayPreppers/1.0.0": {
+      "type": "project",
+      "path": "../DoomsdayPreppers/DoomsdayPreppers.csproj",
+      "msbuildProject": "../DoomsdayPreppers/DoomsdayPreppers.csproj"
+    },
+    "Heras/1.0.0": {
+      "type": "project",
+      "path": "../Heras/Heras.csproj",
+      "msbuildProject": "../Heras/Heras.csproj"
+    },
+    "Infrac/1.0.0": {
+      "type": "project",
+      "path": "../Infrac/Infrac.csproj",
+      "msbuildProject": "../Infrac/Infrac.csproj"
+    },
+    "Osram/1.0.0": {
+      "type": "project",
+      "path": "../Osram/Osram.csproj",
+      "msbuildProject": "../Osram/Osram.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DoomsdayPreppers >= 1.0.0",
+      "Heras >= 1.0.0",
+      "Infrac >= 1.0.0",
+      "Osram >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Student\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\MOC20486D_10_2020\\Exercise_1\\Oprijlaan\\Oprijlaan.csproj",
+      "projectName": "Oprijlaan",
+      "projectPath": "E:\\MOC20486D_10_2020\\Exercise_1\\Oprijlaan\\Oprijlaan.csproj",
+      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+      "outputPath": "E:\\MOC20486D_10_2020\\Exercise_1\\Oprijlaan\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "E:\\MOC20486D_10_2020\\Exercise_1\\DoomsdayPreppers\\DoomsdayPreppers.csproj": {
+              "projectPath": "E:\\MOC20486D_10_2020\\Exercise_1\\DoomsdayPreppers\\DoomsdayPreppers.csproj"
+            },
+            "E:\\MOC20486D_10_2020\\Exercise_1\\Heras\\Heras.csproj": {
+              "projectPath": "E:\\MOC20486D_10_2020\\Exercise_1\\Heras\\Heras.csproj"
+            },
+            "E:\\MOC20486D_10_2020\\Exercise_1\\Infrac\\Infrac.csproj": {
+              "projectPath": "E:\\MOC20486D_10_2020\\Exercise_1\\Infrac\\Infrac.csproj"
+            },
+            "E:\\MOC20486D_10_2020\\Exercise_1\\Osram\\Osram.csproj": {
+              "projectPath": "E:\\MOC20486D_10_2020\\Exercise_1\\Osram\\Osram.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
