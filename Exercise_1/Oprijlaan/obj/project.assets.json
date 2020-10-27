@@ -5,6 +5,9 @@
       "DoomsdayPreppers/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "ISO.Interfaces": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/DoomsdayPreppers.dll": {}
         },
@@ -15,6 +18,9 @@
       "Heras/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "ISO.Interfaces": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Heras.dll": {}
         },
@@ -25,6 +31,9 @@
       "Infrac/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "ISO.Interfaces": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Infrac.dll": {}
         },
@@ -32,9 +41,22 @@
           "bin/placeholder/Infrac.dll": {}
         }
       },
+      "ISO.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ISO.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ISO.Interfaces.dll": {}
+        }
+      },
       "Osram/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "ISO.Interfaces": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Osram.dll": {}
         },
@@ -59,6 +81,11 @@
       "type": "project",
       "path": "../Infrac/Infrac.csproj",
       "msbuildProject": "../Infrac/Infrac.csproj"
+    },
+    "ISO.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../ISO.Interfaces/ISO.Interfaces.csproj",
+      "msbuildProject": "../ISO.Interfaces/ISO.Interfaces.csproj"
     },
     "Osram/1.0.0": {
       "type": "project",

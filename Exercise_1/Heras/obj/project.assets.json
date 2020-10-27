@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "ISO.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ISO.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ISO.Interfaces.dll": {}
+        }
       }
     }
   },
@@ -172,10 +182,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "ISO.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../ISO.Interfaces/ISO.Interfaces.csproj",
+      "msbuildProject": "../ISO.Interfaces/ISO.Interfaces.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "ISO.Interfaces >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -208,7 +224,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\MOC20486D_10_2020\\Exercise_1\\ISO.Interfaces\\ISO.Interfaces.csproj": {
+              "projectPath": "E:\\MOC20486D_10_2020\\Exercise_1\\ISO.Interfaces\\ISO.Interfaces.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

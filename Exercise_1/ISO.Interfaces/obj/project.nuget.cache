@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rFEclLtjD4TycnHJwSamBqHCtUJ3Mm6Omm0HDaT0SqXI6LRcxDMsrUrQfFzVOsEnRAx3T0a0RhkV2XRpsi9zqQ==",
+  "success": true,
+  "projectFilePath": "E:\\MOC20486D_10_2020\\Exercise_1\\ISO.Interfaces\\ISO.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
