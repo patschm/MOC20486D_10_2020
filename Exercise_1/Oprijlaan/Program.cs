@@ -15,6 +15,9 @@ namespace Oprijlaan
             DetectieLus lus = new DetectieLus();
             Valkuil kuil = new Valkuil();
 
+            lus.Connect(hek);
+            lus.Connect(kuil);
+            lus.Connect(lamp);
 
             lus.Trigger();
         }

@@ -1,0 +1,8 @@
+E:\MOC20486D_10_2020\Exercise_1\ISO.Interfaces\bin\Debug\netstandard2.0\ISO.Interfaces.deps.json
+E:\MOC20486D_10_2020\Exercise_1\ISO.Interfaces\bin\Debug\netstandard2.0\ISO.Interfaces.dll
+E:\MOC20486D_10_2020\Exercise_1\ISO.Interfaces\bin\Debug\netstandard2.0\ISO.Interfaces.pdb
+E:\MOC20486D_10_2020\Exercise_1\ISO.Interfaces\obj\Debug\netstandard2.0\ISO.Interfaces.AssemblyInfoInputs.cache
+E:\MOC20486D_10_2020\Exercise_1\ISO.Interfaces\obj\Debug\netstandard2.0\ISO.Interfaces.AssemblyInfo.cs
+E:\MOC20486D_10_2020\Exercise_1\ISO.Interfaces\obj\Debug\netstandard2.0\ISO.Interfaces.csproj.CoreCompileInputs.cache
+E:\MOC20486D_10_2020\Exercise_1\ISO.Interfaces\obj\Debug\netstandard2.0\ISO.Interfaces.dll
+E:\MOC20486D_10_2020\Exercise_1\ISO.Interfaces\obj\Debug\netstandard2.0\ISO.Interfaces.pdb

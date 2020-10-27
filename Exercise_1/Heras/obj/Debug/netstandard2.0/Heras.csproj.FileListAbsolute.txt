@@ -1,0 +1,12 @@
+E:\MOC20486D_10_2020\Exercise_1\Heras\bin\Debug\netstandard2.0\Heras.deps.json
+E:\MOC20486D_10_2020\Exercise_1\Heras\bin\Debug\netstandard2.0\Heras.dll
+E:\MOC20486D_10_2020\Exercise_1\Heras\bin\Debug\netstandard2.0\Heras.pdb
+E:\MOC20486D_10_2020\Exercise_1\Heras\bin\Debug\netstandard2.0\ISO.Interfaces.dll
+E:\MOC20486D_10_2020\Exercise_1\Heras\bin\Debug\netstandard2.0\ISO.Interfaces.pdb
+E:\MOC20486D_10_2020\Exercise_1\Heras\obj\Debug\netstandard2.0\Heras.csprojAssemblyReference.cache
+E:\MOC20486D_10_2020\Exercise_1\Heras\obj\Debug\netstandard2.0\Heras.AssemblyInfoInputs.cache
+E:\MOC20486D_10_2020\Exercise_1\Heras\obj\Debug\netstandard2.0\Heras.AssemblyInfo.cs
+E:\MOC20486D_10_2020\Exercise_1\Heras\obj\Debug\netstandard2.0\Heras.csproj.CoreCompileInputs.cache
+E:\MOC20486D_10_2020\Exercise_1\Heras\obj\Debug\netstandard2.0\Heras.csproj.CopyComplete
+E:\MOC20486D_10_2020\Exercise_1\Heras\obj\Debug\netstandard2.0\Heras.dll
+E:\MOC20486D_10_2020\Exercise_1\Heras\obj\Debug\netstandard2.0\Heras.pdb
