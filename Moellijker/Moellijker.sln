@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LazyPeople", "LazyPeople\La
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanCalculator", "HumanCalculator\HumanCalculator.csproj", "{84F81A4C-88BB-4BA5-92E0-CE8290F64906}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPO", "NPO\NPO.csproj", "{636F8EB5-3DDD-438F-B8B6-B60706274121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{D0D7A91C-DE79-4727-B946-CE3CB9C534E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{84F81A4C-88BB-4BA5-92E0-CE8290F64906}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84F81A4C-88BB-4BA5-92E0-CE8290F64906}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84F81A4C-88BB-4BA5-92E0-CE8290F64906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{636F8EB5-3DDD-438F-B8B6-B60706274121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636F8EB5-3DDD-438F-B8B6-B60706274121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636F8EB5-3DDD-438F-B8B6-B60706274121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636F8EB5-3DDD-438F-B8B6-B60706274121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D7A91C-DE79-4727-B946-CE3CB9C534E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D7A91C-DE79-4727-B946-CE3CB9C534E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D7A91C-DE79-4727-B946-CE3CB9C534E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D7A91C-DE79-4727-B946-CE3CB9C534E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

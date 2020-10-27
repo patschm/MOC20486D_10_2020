@@ -1,0 +1,13 @@
+E:\MOC20486D_10_2020\Moellijker\HumanCalculator\bin\Debug\netcoreapp3.1\HumanCalculator.exe
+E:\MOC20486D_10_2020\Moellijker\HumanCalculator\bin\Debug\netcoreapp3.1\HumanCalculator.deps.json
+E:\MOC20486D_10_2020\Moellijker\HumanCalculator\bin\Debug\netcoreapp3.1\HumanCalculator.runtimeconfig.json
+E:\MOC20486D_10_2020\Moellijker\HumanCalculator\bin\Debug\netcoreapp3.1\HumanCalculator.runtimeconfig.dev.json
+E:\MOC20486D_10_2020\Moellijker\HumanCalculator\bin\Debug\netcoreapp3.1\HumanCalculator.dll
+E:\MOC20486D_10_2020\Moellijker\HumanCalculator\bin\Debug\netcoreapp3.1\HumanCalculator.pdb
+E:\MOC20486D_10_2020\Moellijker\HumanCalculator\obj\Debug\netcoreapp3.1\HumanCalculator.csprojAssemblyReference.cache
+E:\MOC20486D_10_2020\Moellijker\HumanCalculator\obj\Debug\netcoreapp3.1\HumanCalculator.AssemblyInfoInputs.cache
+E:\MOC20486D_10_2020\Moellijker\HumanCalculator\obj\Debug\netcoreapp3.1\HumanCalculator.AssemblyInfo.cs
+E:\MOC20486D_10_2020\Moellijker\HumanCalculator\obj\Debug\netcoreapp3.1\HumanCalculator.csproj.CoreCompileInputs.cache
+E:\MOC20486D_10_2020\Moellijker\HumanCalculator\obj\Debug\netcoreapp3.1\HumanCalculator.dll
+E:\MOC20486D_10_2020\Moellijker\HumanCalculator\obj\Debug\netcoreapp3.1\HumanCalculator.pdb
+E:\MOC20486D_10_2020\Moellijker\HumanCalculator\obj\Debug\netcoreapp3.1\HumanCalculator.genruntimeconfig.cache
