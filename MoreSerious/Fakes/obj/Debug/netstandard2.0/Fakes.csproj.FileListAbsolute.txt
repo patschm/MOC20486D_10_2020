@@ -1,0 +1,12 @@
+E:\MOC20486D_10_2020\MoreSerious\Fakes\bin\Debug\netstandard2.0\Entities.dll
+E:\MOC20486D_10_2020\MoreSerious\Fakes\obj\Debug\netstandard2.0\Fakes.AssemblyInfoInputs.cache
+E:\MOC20486D_10_2020\MoreSerious\Fakes\obj\Debug\netstandard2.0\Fakes.AssemblyInfo.cs
+E:\MOC20486D_10_2020\MoreSerious\Fakes\bin\Debug\netstandard2.0\Fakes.deps.json
+E:\MOC20486D_10_2020\MoreSerious\Fakes\bin\Debug\netstandard2.0\Fakes.dll
+E:\MOC20486D_10_2020\MoreSerious\Fakes\bin\Debug\netstandard2.0\Fakes.pdb
+E:\MOC20486D_10_2020\MoreSerious\Fakes\bin\Debug\netstandard2.0\Entities.pdb
+E:\MOC20486D_10_2020\MoreSerious\Fakes\obj\Debug\netstandard2.0\Fakes.csprojAssemblyReference.cache
+E:\MOC20486D_10_2020\MoreSerious\Fakes\obj\Debug\netstandard2.0\Fakes.csproj.CoreCompileInputs.cache
+E:\MOC20486D_10_2020\MoreSerious\Fakes\obj\Debug\netstandard2.0\Fakes.csproj.CopyComplete
+E:\MOC20486D_10_2020\MoreSerious\Fakes\obj\Debug\netstandard2.0\Fakes.dll
+E:\MOC20486D_10_2020\MoreSerious\Fakes\obj\Debug\netstandard2.0\Fakes.pdb

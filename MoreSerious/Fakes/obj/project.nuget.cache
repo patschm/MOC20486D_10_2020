@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3cDWCyhhqkgXhAPuIm/VcWRAslZe+f+9KswnjY8MOAByz2tIGHJ47E3wczxkaciu7teYHDsaHLHm1CNpsP+ykg==",
+  "success": true,
+  "projectFilePath": "E:\\MOC20486D_10_2020\\MoreSerious\\Fakes\\Fakes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\bogus\\31.0.3\\bogus.31.0.3.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

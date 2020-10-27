@@ -7,10 +7,10 @@ namespace DoomsdayPreppers
     {
         public void Activate()
         {
-            Open();
+            Open(this);
         }
 
-        public void Open()
+        public void Open(object sender)
         {
             Console.WriteLine("De valkuil met spiezen gaat open");
         }

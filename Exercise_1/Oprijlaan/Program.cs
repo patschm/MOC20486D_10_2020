@@ -14,6 +14,10 @@ namespace Oprijlaan
             Lamp lamp = new Lamp();
             DetectieLus lus = new DetectieLus();
             Valkuil kuil = new Valkuil();
+            
+            lus.Activated += hek.Open;
+            lus.Activated += kuil.Open;
+            lus.Activated += lamp.Aan;
 
             lus.Connect(hek);
             lus.Connect(kuil);
