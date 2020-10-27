@@ -1,0 +1,7 @@
+E:\MOC20486D_10_2020\Moellijker\GUI\bin\Debug\GUI.exe.config
+E:\MOC20486D_10_2020\Moellijker\GUI\bin\Debug\GUI.exe
+E:\MOC20486D_10_2020\Moellijker\GUI\bin\Debug\GUI.pdb
+E:\MOC20486D_10_2020\Moellijker\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\MOC20486D_10_2020\Moellijker\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\MOC20486D_10_2020\Moellijker\GUI\obj\Debug\GUI.exe
+E:\MOC20486D_10_2020\Moellijker\GUI\obj\Debug\GUI.pdb

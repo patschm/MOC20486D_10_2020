@@ -4,12 +4,14 @@ using System.Text;
 
 namespace HumanCalculator
 {
+    delegate int Berekening(int dummy1, int dummy2);
+
     class WillemKlein
     {
-        public void RekenUit()
+        public void RekenUit(Berekening berekening)
         {
-            Console.WriteLine("Willem Klein gaat un rekenen....");
-            int res = 0;
+            Console.WriteLine("Willem Klein gaat nu rekenen....");
+            int res = berekening(2, 3);
 
             //....
 
