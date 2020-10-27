@@ -1,0 +1,8 @@
+E:\MOC20486D_10_2020\MoreSerious\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+E:\MOC20486D_10_2020\MoreSerious\Entities\bin\Debug\netstandard2.0\Entities.dll
+E:\MOC20486D_10_2020\MoreSerious\Entities\bin\Debug\netstandard2.0\Entities.pdb
+E:\MOC20486D_10_2020\MoreSerious\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+E:\MOC20486D_10_2020\MoreSerious\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+E:\MOC20486D_10_2020\MoreSerious\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+E:\MOC20486D_10_2020\MoreSerious\Entities\obj\Debug\netstandard2.0\Entities.dll
+E:\MOC20486D_10_2020\MoreSerious\Entities\obj\Debug\netstandard2.0\Entities.pdb

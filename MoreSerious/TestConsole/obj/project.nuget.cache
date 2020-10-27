@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J7vL/xFMqSzU5a4ScHzkjxD3JgICOlFgDorxQ1vcBbF3An/l76XrGiX9SYRcrz93VpLGzWBxkbKEW3/vb374Sw==",
+  "success": true,
+  "projectFilePath": "E:\\MOC20486D_10_2020\\MoreSerious\\TestConsole\\TestConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\bogus\\31.0.3\\bogus.31.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

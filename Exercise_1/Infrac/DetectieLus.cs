@@ -8,6 +8,9 @@ namespace Infrac
     {
         private List<IDetectable> devices = new List<IDetectable>();
 
+        //public event DeviceHandler Activating;
+        public event DeviceHandler Activated;
+
         public void Connect(IDetectable device)
         {
             devices.Add(device);
@@ -17,6 +20,9 @@ namespace Infrac
         {
             Console.WriteLine("Hmmmm. We zien iets...");
             // TODO: Activeer hier alles wat aan de detectielus hangt.
+
+            Activated?.Invoke(this);
+
             foreach(IDetectable device in devices)
             {
                 device.Activate();

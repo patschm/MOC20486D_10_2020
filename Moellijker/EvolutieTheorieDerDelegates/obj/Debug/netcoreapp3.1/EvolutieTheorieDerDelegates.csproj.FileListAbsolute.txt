@@ -1,0 +1,12 @@
+E:\MOC20486D_10_2020\Moellijker\EvolutieTheorieDerDelegates\bin\Debug\netcoreapp3.1\EvolutieTheorieDerDelegates.exe
+E:\MOC20486D_10_2020\Moellijker\EvolutieTheorieDerDelegates\bin\Debug\netcoreapp3.1\EvolutieTheorieDerDelegates.deps.json
+E:\MOC20486D_10_2020\Moellijker\EvolutieTheorieDerDelegates\bin\Debug\netcoreapp3.1\EvolutieTheorieDerDelegates.runtimeconfig.json
+E:\MOC20486D_10_2020\Moellijker\EvolutieTheorieDerDelegates\bin\Debug\netcoreapp3.1\EvolutieTheorieDerDelegates.runtimeconfig.dev.json
+E:\MOC20486D_10_2020\Moellijker\EvolutieTheorieDerDelegates\bin\Debug\netcoreapp3.1\EvolutieTheorieDerDelegates.dll
+E:\MOC20486D_10_2020\Moellijker\EvolutieTheorieDerDelegates\bin\Debug\netcoreapp3.1\EvolutieTheorieDerDelegates.pdb
+E:\MOC20486D_10_2020\Moellijker\EvolutieTheorieDerDelegates\obj\Debug\netcoreapp3.1\EvolutieTheorieDerDelegates.AssemblyInfoInputs.cache
+E:\MOC20486D_10_2020\Moellijker\EvolutieTheorieDerDelegates\obj\Debug\netcoreapp3.1\EvolutieTheorieDerDelegates.AssemblyInfo.cs
+E:\MOC20486D_10_2020\Moellijker\EvolutieTheorieDerDelegates\obj\Debug\netcoreapp3.1\EvolutieTheorieDerDelegates.csproj.CoreCompileInputs.cache
+E:\MOC20486D_10_2020\Moellijker\EvolutieTheorieDerDelegates\obj\Debug\netcoreapp3.1\EvolutieTheorieDerDelegates.dll
+E:\MOC20486D_10_2020\Moellijker\EvolutieTheorieDerDelegates\obj\Debug\netcoreapp3.1\EvolutieTheorieDerDelegates.pdb
+E:\MOC20486D_10_2020\Moellijker\EvolutieTheorieDerDelegates\obj\Debug\netcoreapp3.1\EvolutieTheorieDerDelegates.genruntimeconfig.cache
