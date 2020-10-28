@@ -1,7 +1,0 @@
-E:\MOC20486D_10_2020\Advanced\Taken\bin\Debug\Taken.exe.config
-E:\MOC20486D_10_2020\Advanced\Taken\bin\Debug\Taken.exe
-E:\MOC20486D_10_2020\Advanced\Taken\bin\Debug\Taken.pdb
-E:\MOC20486D_10_2020\Advanced\Taken\obj\Debug\Taken.csprojAssemblyReference.cache
-E:\MOC20486D_10_2020\Advanced\Taken\obj\Debug\Taken.csproj.CoreCompileInputs.cache
-E:\MOC20486D_10_2020\Advanced\Taken\obj\Debug\Taken.exe
-E:\MOC20486D_10_2020\Advanced\Taken\obj\Debug\Taken.pdb
