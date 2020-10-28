@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generieken", "Generieken\Generieken.csproj", "{420E406B-8D55-4973-9E5A-30212BE6B789}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generieken", "Generieken\Generieken.csproj", "{420E406B-8D55-4973-9E5A-30212BE6B789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taken", "Taken\Taken.csproj", "{8EA97199-9792-499E-A48E-7351C61554EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataHost", "DataHost\DataHost.csproj", "{A50734B0-6F97-43BA-B956-979FF64A4C95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{420E406B-8D55-4973-9E5A-30212BE6B789}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{420E406B-8D55-4973-9E5A-30212BE6B789}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{420E406B-8D55-4973-9E5A-30212BE6B789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EA97199-9792-499E-A48E-7351C61554EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA97199-9792-499E-A48E-7351C61554EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA97199-9792-499E-A48E-7351C61554EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA97199-9792-499E-A48E-7351C61554EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A50734B0-6F97-43BA-B956-979FF64A4C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50734B0-6F97-43BA-B956-979FF64A4C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50734B0-6F97-43BA-B956-979FF64A4C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50734B0-6F97-43BA-B956-979FF64A4C95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
