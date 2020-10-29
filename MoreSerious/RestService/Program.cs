@@ -18,6 +18,13 @@ namespace RestService
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
+                .ConfigureAppConfiguration(cb => {
+                    cb.AddJsonFile("appsettings.json");
+                })
+                .ConfigureLogging(cl => {
+                    cl.ClearProviders();
+                    cl.AddConsole();
+                })
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
