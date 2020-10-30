@@ -1,9 +1,12 @@
-﻿using System.Linq;
+﻿using System;
+using System.Linq;
 using Entities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Options;
 using Repository.Interfaces;
+using RestService.Configuration;
 using RestService.Filters;
 
 namespace RestService.Controllers
@@ -14,21 +17,24 @@ namespace RestService.Controllers
     {
         private IPersonRepository _repository;
         private ILogger<PersonController> _logger;
+        private IOptions<MijnData> _options;
 
-        public PersonController(IPersonRepository repo, ILogger<PersonController> logger)
+        public PersonController(IPersonRepository repo, ILogger<PersonController> logger, IOptions<MijnData> options)
         {
             _repository = repo;
             _logger = logger;
+            _options = options;
         }
 
         [HttpGet]
         [Route("")]
         public IActionResult Get([FromQuery]int skip = 0, [FromQuery]int take = 10)
         {
+            //throw new Exception("Hallo!!!");
             _logger.LogDebug("Debug");
             _logger.LogError("Error");
             _logger.LogWarning("Warning");
-            _logger.LogCritical("Critical");
+            _logger.LogCritical(_options.Value.Hallo);
             _logger.LogInformation("Information");
 
             var query = _repository.Get().Skip(skip).Take(take);

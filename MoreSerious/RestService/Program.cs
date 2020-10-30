@@ -18,8 +18,8 @@ namespace RestService
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
-                .ConfigureAppConfiguration(cb => {
-                    cb.AddJsonFile("appsettings.json");
+                .ConfigureAppConfiguration((hb, cb) => {
+                    cb.AddJsonFile($"mijn.{hb.HostingEnvironment.EnvironmentName}.json");
                 })
                 .ConfigureLogging(cl => {
                     cl.ClearProviders();
