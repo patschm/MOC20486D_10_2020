@@ -46,8 +46,14 @@ namespace RestService
                 opts.EnableHeartbeat = true;
             });
 
+            services.AddCors(opts=> {
+                opts.AddPolicy("alles", pol => {
+                    pol.AllowAnyOrigin();
+                });
+            });
+
             services.AddControllers(opts=> {
-                opts.OutputFormatters.Add(new CsvOutFormatter());       
+                //opts.OutputFormatters.Add(new CsvOutFormatter());       
                 //opts.Filters.Add<MyUselessFilterAttribute>()
             }).AddNewtonsoftJson();
                 
@@ -71,6 +77,7 @@ namespace RestService
             //    });
             //});
 
+            app.UseCors("alles");
             app.UseRouting();
 
             //app.Map("/ha", app2 =>
