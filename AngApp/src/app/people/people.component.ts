@@ -16,7 +16,7 @@ export class PeopleComponent implements OnInit
   constructor(private client:HttpClient) { }
 
   ngOnInit(): void {
-    this.people$ = this.client.get<Person[]>("https://localhost:5001/person");
+    this.people$ = this.client.get<Person[]>("https://psrestservice.azurewebsites.net/person");
   }
 
 }

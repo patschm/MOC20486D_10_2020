@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using DataHost.Hubs;
 using DataHost.MiddleWare;
 using DataHost.SomeClasses;
 using Microsoft.AspNetCore.Builder;
@@ -9,6 +10,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.AspNetCore.SignalR;
 
 namespace DataHost
 {
@@ -17,6 +19,7 @@ namespace DataHost
         // In deze functie registreer je de services in de DI
         public void ConfigureServices(IServiceCollection services)
         {
+            //services.AddSingleton<Chatbox >();
             // 1 instantie voor de hele applicatie
             //services.AddSingleton<ICalculator, Calculator>();
 
@@ -25,7 +28,7 @@ namespace DataHost
             // Per Call 1 object
             services.AddTransient<ICalculator, Calculator>();
             //services.AddTransient<ICalculator, SuperCalculator>();
-
+            services.AddSignalR();
             services.AddControllers();
         }
 
@@ -40,11 +43,13 @@ namespace DataHost
             //    app.UseDeveloperExceptionPage();
             //}
 
+            app.UseStaticFiles();
             app.UseRouting();
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapDefaultControllerRoute();
+                endpoints.MapHub<Chatbox>("/blater");
             });
         }
     }
